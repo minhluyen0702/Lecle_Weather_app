@@ -1,0 +1,1 @@
+String API_KEY_openweathermap = 'feade07139570434cdd30a22f602a4d2';
